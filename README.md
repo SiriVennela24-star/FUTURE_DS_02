@@ -9,7 +9,7 @@
 <h1>📊 Future Interns – Data Science Internship Projects</h1>
 
 <p>
-This repository contains the completed projects for <strong>Task 2</strong> and <strong>Task 3</strong> as part of the
+This repository contains the completed projects for <strong>Task 2</strong> as part of the
 <strong>Future Interns – Data Science Internship Program</strong>.
 The objective of these tasks was to analyze real-world datasets, extract meaningful insights, and present findings
 through clear visualizations and dashboards to support data-driven decision-making.
